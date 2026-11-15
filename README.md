@@ -23,3 +23,9 @@ Eg
 SELECT A, B,C
 WHERE A<B
 ```
+### Visualization
+
+<img width="382" height="232" alt="Gender dist" src="https://github.com/user-attachments/assets/5552f55f-fed1-4c8e-9172-7a45e0af7bed" />
+
+<img width="402" height="247" alt="BMI" src="https://github.com/user-attachments/assets/e11e5ca8-b639-4b2b-a41a-e5b662c052bb" />
+
