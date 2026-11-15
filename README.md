@@ -13,4 +13,4 @@
  - Ms Excel for data cleaning [Download here](https://www.microsoft.com)
  - SQL server (for Querying and analysis)
  - PowerBI ( for creating report)
- =Ms Power Point (for presnetation)
+ - Ms Power Point (for presnetation)
