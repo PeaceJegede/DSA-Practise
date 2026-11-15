@@ -1,4 +1,4 @@
-   # DSA-Practise
+ # DSA-Practise
 ## DSA Documentation
 ### Project Topic: E commerce Sales Analysis
 ### Project Overview
@@ -29,3 +29,6 @@ WHERE A<B
 
 <img width="402" height="247" alt="BMI" src="https://github.com/user-attachments/assets/e11e5ca8-b639-4b2b-a41a-e5b662c052bb" />
 
+### Ass Visualization
+![First image](https://i.postimg.cc/bZ4CLLVV/BMI.png)
+![Second Image](https://i.postimg.cc/87fwFMkL/Gender-dist.png)
