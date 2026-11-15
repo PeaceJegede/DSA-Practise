@@ -14,3 +14,12 @@
  - SQL server (for Querying and analysis)
  - PowerBI ( for creating report)
  - Ms Power Point (for presnetation)
+
+### Data Analytics
+This is where we include some basic lines od code or queries or even some of the Dax expression used during your analysis.
+
+Eg
+```
+SELECT A, B,C
+WHERE A<B
+```
