@@ -31,4 +31,6 @@ WHERE A<B
 
 ### Ass Visualization
 ![First image](https://i.postimg.cc/bZ4CLLVV/BMI.png)
+
+
 ![Second Image](https://i.postimg.cc/87fwFMkL/Gender-dist.png)
