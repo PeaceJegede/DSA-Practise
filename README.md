@@ -10,7 +10,7 @@
  The primary source of data used her is Data sale.csv
  
  ### Tools used
- - Ms Excel for data cleaning [Download here](https://www.microsoft.com)
+ - Ms Excel for data cleaning [Download](https://www.microsoft.com)
  - SQL server (for Querying and analysis)
  - PowerBI ( for creating report)
  - Ms Power Point (for presnetation)
